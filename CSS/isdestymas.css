@@ -1,5 +1,7 @@
-.ketvirtas {
+.ketvirtas div {
     float: left;
+    margin: 0 1%;
+    border: non;
 }
 .d1_4{
       width: 24%;
