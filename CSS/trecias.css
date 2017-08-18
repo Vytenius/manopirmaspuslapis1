@@ -1,0 +1,22 @@
+.penktas div {
+    float: left;
+    margin: 0 1%;
+    border-style: none;
+}
+.d1_4{
+    width: 24%;
+
+}
+.d2_4 {
+    width: 48%;
+}
+.d3_4 {
+    width: 62%;
+}
+.d4_4_4 {
+    width: 96%;
+}
+
+border3 {
+    width: 50%;
+}
