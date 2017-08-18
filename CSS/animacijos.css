@@ -5,8 +5,8 @@
 }
 
 .border1:hover {
- background-color: green;
- animation-name: example;
- animation-duration: 6s;
- animtaion-iteration-count: infinite;
+    background-color: green;
+    animation-name: example;
+    animation-duration: 6s;
+    animtaion-iteration-count: infinite;
 }
