@@ -1,11 +1,11 @@
 @keyframes example {
-    from {background: green}
-    to {background: red}
+    0%{background: green}
+    50%{background: yellow}
+    100%{background: red}
 }
-
 div {
  background-color: green;
  animation-name: example;
- animation-duration: 4s;
-
+ animation-duration: 3%s;
+ animtaion-iteration-count: infinite;
 }
