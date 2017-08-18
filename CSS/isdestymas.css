@@ -3,6 +3,9 @@
     margin: 0 1%;
     border-style: none;
 }
+.ketvirtas {
+    overflow: hidden;
+}
 
 .d1_4{
       width: 24%;
